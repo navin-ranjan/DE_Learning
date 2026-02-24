@@ -1,4 +1,4 @@
-# Data Engineering Preparation Roadmap
+# Data Engineering
 
 This repository contains structured study materials for Data Engineering preparation and skill development.
 
